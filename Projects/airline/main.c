@@ -144,7 +144,6 @@ void cancel()
 
 void main()
 {
-//	void reserve(int x), cancel(), display(), savefile();  //function prototypes
 	int choice;
 	begin = stream = NULL;  //initialize the struct pointers to NULL 
 	int num = 1;
